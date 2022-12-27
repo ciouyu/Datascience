@@ -1,5 +1,6 @@
 # Datascience
-#youtube chatroom anaylize
-# use anaconda jpyter notebook
-# use beautiful soup
+# youtube chatroom anaylize
+I use anaconda jpyter notebook
+# use beautiful soup catch data
+''' pip install 
  
