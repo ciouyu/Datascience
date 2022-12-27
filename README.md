@@ -10,4 +10,6 @@ anaconda jpyter notebook
 $ pip install pandas  
 $ pip install google-auth  
 $ pip install pygsheets  
+$ pip install beautifulsoup4
+$ pip install requests
 ```
